@@ -1,4 +1,12 @@
 {
-  "name": "John",
-  "age": "21"
+  "person": [
+    {
+      "name": "John",
+      "age": "21"
+    },
+    {
+      "name": "Marc",
+      "age": "20"
+    }
+  ]
 }
